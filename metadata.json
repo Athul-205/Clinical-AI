@@ -1,0 +1,6 @@
+{
+  "name": "Clinical AI Assistant",
+  "description": "Enterprise-grade AI-Powered Patient Intelligence Platform for healthcare professionals to analyze, synthesize, and cross-reference longitudinal medical reports with verifiable evidence links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
