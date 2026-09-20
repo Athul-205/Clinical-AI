@@ -353,3 +353,4 @@ export const AISummaryTab: React.FC<AISummaryTabProps> = ({ patient, onOpenEvide
     </div>
   );
 };
+
