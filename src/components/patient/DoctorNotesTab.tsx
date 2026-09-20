@@ -154,3 +154,4 @@ export const DoctorNotesTab: React.FC<DoctorNotesTabProps> = ({ patient, onAddNo
     </div>
   );
 };
+
