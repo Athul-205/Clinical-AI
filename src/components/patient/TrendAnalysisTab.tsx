@@ -232,3 +232,4 @@ export const TrendAnalysisTab: React.FC<TrendAnalysisTabProps> = ({ patient, onO
     </div>
   );
 };
+
