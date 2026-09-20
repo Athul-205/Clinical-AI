@@ -235,3 +235,4 @@ export interface ReportComparisonResult {
   reportA?: MedicalReport;
   reportB?: MedicalReport;
 }
+
