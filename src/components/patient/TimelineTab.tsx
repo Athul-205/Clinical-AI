@@ -113,3 +113,4 @@ export const TimelineTab: React.FC<TimelineTabProps> = ({ patient, onOpenEvidenc
     </div>
   );
 };
+
