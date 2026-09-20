@@ -122,3 +122,4 @@ export const EmergencyMode: React.FC<EmergencyModeProps> = ({ patients, onSelect
     </div>
   );
 };
+
