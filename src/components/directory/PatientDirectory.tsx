@@ -219,3 +219,4 @@ export const PatientDirectory: React.FC<PatientDirectoryProps> = ({
     </div>
   );
 };
+
