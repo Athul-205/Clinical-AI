@@ -146,3 +146,4 @@ export const EmergencySummaryTab: React.FC<EmergencySummaryTabProps> = ({ patien
     </div>
   );
 };
+
