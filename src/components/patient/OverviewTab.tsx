@@ -116,3 +116,4 @@ export const OverviewTab: React.FC<OverviewTabProps> = ({ patient, onOpenEvidenc
     </div>
   );
 };
+
