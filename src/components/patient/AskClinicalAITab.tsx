@@ -373,3 +373,4 @@ export const AskClinicalAITab: React.FC<AskClinicalAITabProps> = ({ patient, onO
     </div>
   );
 };
+
