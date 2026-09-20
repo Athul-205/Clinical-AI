@@ -137,3 +137,4 @@ export const MedicalReportsTab: React.FC<MedicalReportsTabProps> = ({
     </div>
   );
 };
+
