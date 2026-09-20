@@ -306,3 +306,4 @@ export const HospitalDashboard: React.FC<HospitalDashboardProps> = ({
     </div>
   );
 };
+
