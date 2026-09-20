@@ -256,3 +256,4 @@ export const PatientProfileView: React.FC<PatientProfileViewProps> = ({
     </div>
   );
 };
+
